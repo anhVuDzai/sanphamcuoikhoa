@@ -1,0 +1,19 @@
+.font {
+    font-family: "Gill Sans", sans-serif;
+}
+
+.white {
+    color: whitesmoke;
+}
+
+.navBar {
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #131C27;
+}
+
+.navEle {
+    font-size: x-large;
+}
