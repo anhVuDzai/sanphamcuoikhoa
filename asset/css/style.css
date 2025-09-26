@@ -1,8 +1,6 @@
 .font {
-    font-family: 'Poppins', sans-serif;
-    font-weight: 600;         /* bold */
-    font-size: 28px;  
-}   
+    font-family: "Gill Sans", sans-serif;
+}
 
 .white {
     color: whitesmoke;
