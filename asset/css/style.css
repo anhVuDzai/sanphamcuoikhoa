@@ -1,17 +1,19 @@
 .font {
-    font-family: "Gill Sans", sans-serif;
-}
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;         /* bold */
+    font-size: 28px;  
+}   
 
 .white {
     color: whitesmoke;
 }
 
 .navBar {
-    height: 70px;
+    height: 50px;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    background-color: #131C27;
+    background-color: #18191A;
 }
 
 .navEle {
