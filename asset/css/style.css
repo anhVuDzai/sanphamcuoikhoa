@@ -10,10 +10,23 @@
     height: 50px;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-between;
     background-color: #18191A;
 }
 
 .navEle {
     font-size: x-large;
+    background-color: #18191A;
+}
+
+.content {
+    display: flex;
+}
+
+.book {
+    background-color: #242526;
+}
+
+.fooo {
+    margin-bottom: 10px;
 }
